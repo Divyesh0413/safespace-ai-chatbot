@@ -14,7 +14,7 @@
 Mental health is a critical aspect of overall well-being, yet millions of people do not receive timely support due to stigma, high costs, and limited access to professionals. SafeSpace AI is a **privacy-first, empathetic mental health chatbot** powered by conversational AI that provides early-stage emotional support and bridges this treatment gap.
 
 **Team Members:**
-- Sarthak Pandey (AD58)
+- Sarthak Pandey (0501AD58231024)
 - Divyesh Tiwari (AD24)
 - Pratham Pandey (AD44)
 - Dipransh Singh Baghel (AD23)
